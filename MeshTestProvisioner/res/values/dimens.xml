@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="node_list_height">65dp</dimen>
+    <dimen name="node_list_text_textsize">14sp</dimen>
+    <dimen name="node_list_status_textsize">10sp</dimen>
+    <dimen name="node_list_time_textsize">10sp</dimen>
+    <dimen name="node_list_heartbeat_textsize">10sp</dimen>
+    <dimen name="node_list_friendship_textsize">10sp</dimen>
+
+    <dimen name="unprovisioned_name_textsize">14sp</dimen>
+    <dimen name="unprovisioned_status_textsize">12sp</dimen>
+
+    <dimen name="main_margin_left_right">25sp</dimen>
+
+    <dimen name="node_num_width">30dp</dimen>
+    <dimen name="node_num_text_size">15sp</dimen>
+
+</resources>
